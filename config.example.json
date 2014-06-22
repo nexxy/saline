@@ -1,0 +1,7 @@
+{
+	"username" : "nexxy"
+	, "password" : "sup3r-compl3x-p4ssw0rd"
+	, "host" : "my.jenkins.host.com"
+	, "proto" : "https"
+	, "port" : "443"	
+}

@@ -1,0 +1,17 @@
+{
+  "name": "saline",
+  "version": "0.0.0",
+  "description": "Simple Alert Lamp Implementation, Nothing Else.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emily Rose <emily@contactvibe.com>",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.7.49"
+  }
+}
